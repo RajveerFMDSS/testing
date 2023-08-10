@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 My Name is rajveer sharma
+
+hello world
+
+My Name is samriddhi
+
+My Name is shubham
